@@ -10,7 +10,8 @@ This project is an analytical study to predict the risk of having a heart failur
 We also study the ECG of patients and classify them into 5 different categories. To address the problems raised with the manual analysis of ECG signals, many studies in the literature explored using machine learning techniques to accurately detect the anomalies in the signal. We have implemented 3 different implementations for classifying the ECG signals. 
 
 ## Modules:
-Heart Failure Prediction
-ECG HeartBeat Classification 
+1. Heart Failure Prediction
+2. ECG HeartBeat Classification 
+
 
 
