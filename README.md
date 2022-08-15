@@ -15,3 +15,16 @@ We also study the ECG of patients and classify them into 5 different categories.
 
 
 
+### Heart Failure Prediction
+
+Models implemented:
+ - Extra trees classifier
+ - Gradient Boosting Classifier
+ - Random Forest Classifier
+ - CatBoost Classifier
+ - Light Gradient Boosting Machine
+ - Decision Tree Classifier
+ 
+Best performing model : Ensemble of the models implemented (except Decision tree) with Soft Voting.
+
+Final model : Calibrated version of the best model using pycaret
