@@ -28,3 +28,18 @@ Models implemented:
 Best performing model : Ensemble of the models implemented (except Decision tree) with Soft Voting.
 
 Final model : Calibrated version of the best model using pycaret
+
+
+### ECG Heartbeat Classification
+Algorithms:
+ - Logistic Regression
+ - Random Forest
+ - XgBoost 
+
+Performed Minority Sampling using SMOTE technique as data had imbalance.
+
+Best performing model - Random Forest (in both ases with and without SMOTE).
+
+
+
+
